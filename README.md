@@ -1,0 +1,2 @@
+# KinyarwandaAssistant
+mini kinyarwanda assistant
