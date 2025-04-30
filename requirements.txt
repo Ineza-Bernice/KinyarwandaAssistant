@@ -1,0 +1,9 @@
+nemo_toolkit[asr]
+pydub
+numpy==1.26.4
+fuzzywuzzy[speedup]
+TTS
+gTTS
+langid
+pytorch_lightning
+huggingface_hub
